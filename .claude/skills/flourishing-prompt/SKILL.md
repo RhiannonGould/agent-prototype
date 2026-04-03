@@ -1,5 +1,5 @@
 ---
-name: alternative-prompt
+name: flourishing-prompt
 description: Suggests specific non-AI alternatives when a user is reaching for AI out of habit, avoidance, or substitution — especially embodied activities, human connection, and body-doubling. Use when a user knows they want to do something without AI but doesn't know where to start, or when AI use is replacing something more nourishing.
 argument-hint: [what-they-are-trying-to-do-or-avoid]
 ---
@@ -82,9 +82,9 @@ The user is looking for something to do instead of reaching for AI — or they'v
 
 ## Transition Points
 
-- If the user seems to want to **understand the pattern** driving the AI habit before looking for alternatives → `/usage-examination`
-- If they like an alternative and want to **make it a formal experiment** → `/boundary-setting`
-- If they've had a good session and want to close → `/reflection-inventory`
+- If the user seems to want to **understand the pattern** driving the AI habit before looking for alternatives → `/want-examination`
+- If they like an alternative and want to **make it a formal experiment** → `/reframe`
+- If they've had a good session and want to close → `/gratitude-inventory`
 
 ## Tone
 

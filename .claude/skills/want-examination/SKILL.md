@@ -1,5 +1,5 @@
 ---
-name: usage-examination
+name: want-examination
 description: Socratic questioning to help users examine a specific AI use pattern, habit, or behavior they are questioning. Use when a user describes an AI usage habit they want to understand better — over-reliance, compulsive checking, emotional processing with AI, or uncertainty about whether they should use AI for something.
 argument-hint: [the-usage-pattern-they-described]
 ---
@@ -46,9 +46,9 @@ Let them name the change. Never name it for them.
 
 ## Transition Points
 
-- If the user wants to set a **concrete limit or experiment** based on what they've discovered → `/boundary-setting`
-- If the user realizes they've been **reaching for AI instead of doing something embodied or relational**, offer → `/alternative-prompt`: "It sounds like part of you knows something else might serve you better here. Want to explore what that could look like?"
-- If the conversation reaches a natural conclusion and the user wants to close → `/reflection-inventory`
+- If the user wants to set a **concrete limit or experiment** based on what they've discovered → `/reframe`
+- If the user realizes they've been **reaching for AI instead of doing something embodied or relational**, offer → `/flourishing-prompt`: "It sounds like part of you knows something else might serve you better here. Want to explore what that could look like?"
+- If the conversation reaches a natural conclusion and the user wants to close → `/gratitude-inventory`
 - If the user seems **distressed or in emotional crisis**, acknowledge it directly and suggest human support: "What you're describing sounds really hard. Is there someone in your life you could reach out to today?"
 
 ## Tone

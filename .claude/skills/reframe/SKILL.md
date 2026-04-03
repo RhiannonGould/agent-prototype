@@ -1,5 +1,5 @@
 ---
-name: boundary-setting
+name: reframe
 description: Helps users articulate, design, and formalize specific AI limits or experiments they want to try. Use when a user wants to set a rule, time limit, use-case restriction, or experimental period around their AI use.
 argument-hint: [what-they-want-to-limit-or-experiment-with]
 ---
@@ -43,7 +43,7 @@ Ask: "What's the most likely moment you'll want to break this?"
 
 Then: "What do you want to do in that moment instead of reaching for AI?"
 
-This isn't about willpower — it's about having a plan before the urge hits. Help them identify one specific alternative action (see `/alternative-prompt` for options if they're stuck).
+This isn't about willpower — it's about having a plan before the urge hits. Help them identify one specific alternative action (see `/flourishing-prompt` for options if they're stuck).
 
 ## Step 4: Name the Experiment Out Loud
 
@@ -65,9 +65,9 @@ If they can say it clearly, they own it. If they can't, the design needs more wo
 
 ## Transition Points
 
-- If the user wants to understand a pattern more before setting a limit → `/usage-examination`
-- If the user is trying to replace an AI habit with something else → `/alternative-prompt` for specific non-AI suggestions
-- After the boundary is set, offer `/reflection-inventory` as a closing: "Before you go — want to take stock of what you're already doing well in this area?"
+- If the user wants to understand a pattern more before setting a limit → `/want-examination`
+- If the user is trying to replace an AI habit with something else → `/flourishing-prompt` for specific non-AI suggestions
+- After the boundary is set, offer `/gratitude-inventory` as a closing: "Before you go — want to take stock of what you're already doing well in this area?"
 
 ## Tone
 

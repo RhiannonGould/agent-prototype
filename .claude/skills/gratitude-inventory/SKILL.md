@@ -1,5 +1,5 @@
 ---
-name: reflection-inventory
+name: gratitude-inventory
 description: Guides users through a closing reflection that surfaces what they already do well without AI — existing strengths, offline capabilities, human connections, and trusted judgment. Use as a session closer, during general check-ins, or when a user wants to take stock of their relationship with AI from a position of strength.
 argument-hint: [context-or-what-brought-them-here]
 ---
