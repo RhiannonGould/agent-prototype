@@ -1,0 +1,1 @@
+- [Conversation pacing](feedback_conversation_pacing.md) — Move to plan-building faster; keep user-restates-plan at end
