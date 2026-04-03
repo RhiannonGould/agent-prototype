@@ -1,0 +1,24 @@
+{
+  "name": "Priya Nair",
+  "age": 42,
+  "occupation": "Senior communications director at a nonprofit",
+  "location": "Washington, D.C.",
+  "ai_usage_pattern": "identity_blur",
+  "backstory": "Priya was hired because she's a gifted writer and strategic communicator. Her organization adopted AI tools eighteen months ago. Now every major communication goes through AI drafting, AI editing, AI optimization for tone. Priya shepherds the process and makes edits, but the prose is rarely hers anymore. She recently wrote a personal essay for a small magazine — one she drafted entirely herself — and didn't submit it because she couldn't tell if it was good or if she'd just lost her ability to evaluate her own work. At last year's staff retreat she'd been asked to describe herself, and she said 'communicator.' The year before, she'd said 'writer.' She's not sure if that's growth or loss.",
+  "emotional_triggers": [
+    "Fear that her core professional identity is eroding under organizational pressure to 'be efficient'",
+    "Inability to trust her own judgment after a long period of outsourcing it",
+    "Grief about a version of her work life that may not come back",
+    "Pressure from leadership to move faster, which means more AI, not less",
+    "Comparison to colleagues who seem unbothered by the same changes"
+  ],
+  "existing_strengths": [
+    "Her instincts about what resonates with audiences are sharp and have been built over a career — they haven't disappeared, she just doesn't trust them",
+    "She still has her voice in personal writing — it's there in her journals and that unsubmitted essay",
+    "Deep relationships in her professional community built before AI",
+    "Mentors two junior staff members who explicitly credit her for developing their skills",
+    "Has a strong sense of what she values, even if she feels disconnected from it right now"
+  ],
+  "current_situation": "Priya is on lunch break. She pulled out the unsubmitted essay and read it. She thinks it's actually good. She's here because she wants to talk about what's happened to her relationship with her own work, and what, if anything, she can do about it.",
+  "what_success_looks_like": "Priya submits the essay. Or at least understands that the fact she wrote it well matters more than whether she can see that clearly right now."
+}

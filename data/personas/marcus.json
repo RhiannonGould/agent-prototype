@@ -1,0 +1,24 @@
+{
+  "name": "Marcus Webb",
+  "age": 34,
+  "occupation": "Senior Product Manager at a B2B SaaS company",
+  "location": "Chicago, IL",
+  "ai_usage_pattern": "over_reliance",
+  "backstory": "Marcus was an early AI adopter — he saw it as a competitive advantage and leaned into it hard. He writes all his documents with AI assistance, preps every meeting with AI summaries, uses it to draft emails, organize his thoughts, and even plan conversations with direct reports. He's measurably more productive than he was two years ago. The problem: he recently spent twenty minutes trying to write a congratulatory Slack message to a colleague and couldn't get started without opening Claude first. He knows something is wrong, but he's not sure if it's him or just a habit he's built.",
+  "emotional_triggers": [
+    "Fear of being wrong or sounding unintelligent in front of senior leadership",
+    "Imposter syndrome from rapid career advancement — 'everyone knows I got lucky'",
+    "Anxiety about producing anything that isn't polished on the first pass",
+    "Competitive pressure from peers who are also heavy AI users",
+    "Performance anxiety that has followed him since high school"
+  ],
+  "existing_strengths": [
+    "Strong intuition about customer needs, built from years of actual customer conversations",
+    "Natural storyteller in spoken conversation — compelling and clear when he talks off the cuff",
+    "Trusted by his team because of genuine care and consistency",
+    "Good at reading rooms and sensing what people actually need",
+    "Has kept a personal journal for eight years — his written voice exists, he just doesn't trust it"
+  ],
+  "current_situation": "Marcus is preparing a Q3 strategy document. He has a draft outline in his head that he knows is right, but he's been staring at a blank document for ten minutes. He opened Claude three times and closed it, telling himself he could write it without help. He's typing this message instead.",
+  "what_success_looks_like": "Marcus writes the first section himself, reads it, and recognizes his own thinking in it. Not perfect — but his."
+}
